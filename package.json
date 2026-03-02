@@ -1,0 +1,23 @@
+{
+  "name": "mangawebapp-automation-playwright",
+  "version": "1.0.0",
+  "description": "This project is built to test fairy tail manga web app automatically using Playwright framework and TypeScript programming language",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duytran2609/MangaWebApp-Automation-Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/duytran2609/MangaWebApp-Automation-Playwright/issues"
+  },
+  "homepage": "https://github.com/duytran2609/MangaWebApp-Automation-Playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.3"
+  }
+}
